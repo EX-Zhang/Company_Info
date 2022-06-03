@@ -65,3 +65,5 @@ Django application for the /Company/ router.
 ### Company_frontend
 
 The Angular project for the website Company.
+
+Files are in the GitHub repository https://github.com/EX-Zhang/Company_frontend
