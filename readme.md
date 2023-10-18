@@ -1,4 +1,4 @@
-# Comapny Info Webpage
+# Company Info Webpage
 
 ## Summary
 
